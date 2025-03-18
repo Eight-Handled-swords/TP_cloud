@@ -240,7 +240,7 @@ je vais pas mettre tout le retour de la commande
 
 🌞 **Utilisez Trivy**
 
-nginx
+[nginx](./nginx)
 
 erreur pour wikijs et apache :(
 
